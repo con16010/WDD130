@@ -19,4 +19,32 @@ main section{
 }
 #background{
     height: 725px;
+    background-color: ;
+}
+body{
+    background-color: ;
+}
+header{
+    background-color: ;
+}
+nav a:hover{
+    background-color: ;
+}
+.book{
+    background-color: ;
+}
+.join{
+    background-color: ;
+}
+.book:hoover{
+    background-color: ;
+}
+.join:hoover{
+    background-color: ;
+}
+.msg{
+    background-color: ;
+}
+footer{
+    background-color: ;
 }
