@@ -31,14 +31,17 @@ header{
 nav a:hover{
     background-color: ;
     color: ;
+    text-decoration: none;
 }
 .book{
     background-color: ;
     color: ;
+    text-decoration: none;
 }
 .join{
     background-color: ;
     color: ;
+    text-decoration: none;
 }
 .book:hover{
     background-color: ;
@@ -53,4 +56,8 @@ nav a:hover{
 }
 footer{
     background-color: ;
+    text-decoration: none;
+}
+.icon{
+    width: 80px;
 }
