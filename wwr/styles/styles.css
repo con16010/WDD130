@@ -4,6 +4,7 @@ div.content{
 }
 nav a{
     text-align: center;
+    color: ;
 }
 #hero-msg h1{
     text-align: center;
@@ -29,18 +30,23 @@ header{
 }
 nav a:hover{
     background-color: ;
+    color: ;
 }
 .book{
     background-color: ;
+    color: ;
 }
 .join{
     background-color: ;
+    color: ;
 }
-.book:hoover{
+.book:hover{
     background-color: ;
+    color: ;
 }
-.join:hoover{
+.join:hover{
     background-color: ;
+    color: ;
 }
 .msg{
     background-color: ;
