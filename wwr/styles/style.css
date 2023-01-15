@@ -3,7 +3,7 @@ div #content{
     max-width: 100px;
     margin: 0 auto;
 }
-nav-a{
+nav a{
     text-align: center;
     color: #243D6A;
 }
@@ -20,6 +20,7 @@ main section{
     text-align: center;
 }
 #background{
+    background-color: #87C09B;
     height: 725px;
 }
 body{
