@@ -36,7 +36,7 @@
     .button-box{
         text-align: center;
     }
-    main-section{
+    main section{
         text-align: center;
     }
     #background{
@@ -75,7 +75,7 @@
     .msg{
         background-color: #87C09B;
     }
-    .footer{
+    footer{
         background-color: #243D6A;
         text-decoration: none;
     }
