@@ -56,8 +56,27 @@ nav a:hover{
 }
 footer{
     background-color: #243D6A;
+    color: white;
     text-decoration: none;
 }
 .icon{
     width: 80px;
+}
+.home-title{
+    color: black;
+}
+h4{
+    color: black;
+}
+.msg h2{
+    color: black;
+}
+.msg p{
+    color: black;
+}
+footer a{
+    color: black;
+}
+footer a:hover{
+    color: black;
 }
