@@ -74,6 +74,7 @@
   /* This is the parent of the activity 3 boxes. */
   grid-template-columns: 2fr 1fr 2fr;
   grid-template-rows: 1fr 2fr 1fr;
+  display: grid;
 }
 .red3 {
   width: 100px; 
