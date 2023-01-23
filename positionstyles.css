@@ -72,15 +72,15 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
-  grid-template-columns:  50% 50%;
-  grid-column-gap: 20px;
   display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
 }
 .red3 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
-  grid-column: 1/4;
+  grid-column: 1/;
 } 
 .green3 {
   width: 100px; 
