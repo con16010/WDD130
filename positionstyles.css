@@ -139,7 +139,7 @@
 }
 .red5 { 
   width: 1fr; 
-  height: 25%; 
+  height: 20%; 
   background-color: red; 
 } 
 .green5 { 
@@ -151,12 +151,12 @@
 } 
 .yellow5 {
   width: 1fr; 
-  height: 50%; 
+  height: 60%; 
   background-color: gold; 
 } 
 .blue5 {
   width: 1fr; 
-  height: 25%; 
+  height: 20%; 
   background-color: blue; 
 } 
 /* Activity 6 styles */ 
