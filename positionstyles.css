@@ -81,24 +81,29 @@
   height: 100px; 
   background-color: red; 
   grid-column: 1/4;
+  grid-row: 1/2;
 } 
 .green3 {
   width: 100px; 
   height: 100px; 
   background-color: green;
   grid-column: 1/2;
+  grid-row: 2/3;
 } 
 .yellow3 {
   width: 100px; 
   height: 100px; 
   background-color: gold;
   grid-column: 3/4;
+  grid-row: 3/4;
 } 
 .blue3 {
   width: 100px;
   height: 100px; 
   background-color: blue;
   grid-column: 1/4;
+  grid-row: 1/4;
+
 } 
 /* Activity 4 styles */ 
 .content4 {
