@@ -197,7 +197,7 @@ nav {
     box-shadow: 5px 5px 10px black;
 }
 @media screen and (max-width:900px) {
-    #hero, .homegrid {
+    #hero, .home-grid {
         display: block;
         height: auto;
     }
