@@ -14,6 +14,7 @@ nav a{
 }
 #hero-msg h4{
     text-align: center;
+    color: white;
 }
 .button-box{
     text-align: center;
@@ -35,6 +36,8 @@ body{
 }
 header{
     background-color: #9BD1E5;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 nav a:hover{
     background-color: #157145;
@@ -128,6 +131,8 @@ h2{
 }
 #logo_link{
     padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 .rivers-card {
     margin: 200px 0;
@@ -140,4 +145,16 @@ h2{
 }
 .card-img {
     border: 10px solid black;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+#hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+#hero-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
 }
