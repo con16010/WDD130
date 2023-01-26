@@ -195,6 +195,10 @@ nav {
     grid-row: 5/8;
     box-shadow: 5px 5px 10px black;
 }
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 10%);
+}
 @media screen and (max-width:900px) {
     #hero, .home-grid {
         display: block;
@@ -220,10 +224,6 @@ nav {
     .home-title {
         font-size: 25px;
         color: black;
-    }
-    .home-grid {
-        display: grid;
-        grid-template-columns: repeat(10, 10%);
     }
     .rivers-card, .camping-card, .rapids-card {
         margin: 50px auto;
