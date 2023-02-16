@@ -3,7 +3,7 @@ nav {
     line-height: 3em;
     text-align: center;
     font-size: 1.2em;
-    grid: 2/3;
+    grid-column: 2/3;
 }
 nav  {
     list-style-type: none;
