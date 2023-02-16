@@ -1,0 +1,23 @@
+nav {
+    background-color: #2E8A4D;
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.2em;
+}
+nav  {
+    list-style-type: none;
+    display: flex;
+}
+nav a {
+    padding:1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:link, nav a:visited {
+    color: #F3E3CE;
+}
+nav a:hover {
+    color: #F3E3CE;
+    background-color: #BA1B1D;
+}
