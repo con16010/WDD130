@@ -39,9 +39,6 @@ div .fhsites {
 .fhsites {
     grid-template-columns: 1fr 1fr 1fr;
 }
-logo_link {
-    grid: 1/2;
-}
 .familysearchlogofooter {
     height: 200px;
     width: 100px;
@@ -51,7 +48,6 @@ logo_link {
     width: 100px;
 }
 #logo_link{
-    padding-top: 5px;
     justify-self: center;
     align-self: center;
 }
