@@ -25,6 +25,7 @@ header {
 }
 footer {
     display: grid;
+    grid-template-columns: auto;
 }
 .fhsites {
     grid-template-columns: 1fr 1fr 1fr;
