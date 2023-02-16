@@ -30,7 +30,6 @@ footer {
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
 }
 div .fhsites {
@@ -70,6 +69,6 @@ body{
     display: grid
 }
 .fam1 {
-    
+
 }
 
