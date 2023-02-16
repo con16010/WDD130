@@ -29,7 +29,8 @@ footer {
     color: white;
     padding: 25px 50px;
     margin-top: 200px;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     align-items: center;
 }
 div .fhsites {
@@ -65,10 +66,20 @@ body{
     max-width: 1600px;
     margin: 0 auto;
 }
-#parents {
+.parents {
     display: grid
 }
 .fam1 {
-
+    grid-template-columns: auto;
 }
+.fam2 {
+    grid
+}
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+  }
 
