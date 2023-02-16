@@ -25,8 +25,13 @@ header {
     grid-template-columns: 500px 1fr;
 }
 footer {
-    display: grid;
-    grid-template-columns: auto;
+    background-color: #243D6A;
+    color: white;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 div .fhsites {
     display: grid;
@@ -44,4 +49,24 @@ logo_link {
 .ancestrylogofooter {
     height: 200px;
     width: 100px;
+}
+#logo_link{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+#background{
+    background-color: #87C09B;
+    height: 725px;
+    grid-column: 1/11;
+    grid-row: 4/9;
+}
+body{
+    background-color: #D1FAFF;
+    margin: 0;
+    padding: 0;
+}
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
 }
