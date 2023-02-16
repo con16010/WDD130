@@ -23,5 +23,8 @@ header {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 footer {
+    display: grid;
+}
+.fhsites {
     grid-template-columns: 1fr 1fr 1fr;
 }
