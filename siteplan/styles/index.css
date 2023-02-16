@@ -21,7 +21,7 @@ nav a:hover {
 }
 header {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 1fr 1fr;
 }
 footer {
     display: grid;
