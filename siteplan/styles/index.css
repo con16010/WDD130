@@ -71,7 +71,7 @@ body{
     grid-template-columns: auto;
 }
 .fam2 {
-    grid
+    grid-template-columns: auto;
 }
 body {
     max-width: 1200px;
@@ -87,7 +87,7 @@ body {
 }
 .map {
     grid-column: 1/2;
-    grid-row; 1/2;
+    grid-row: 1/2;
 }
 .captionmap {
     grid-column: 1/2;
