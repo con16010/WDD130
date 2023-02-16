@@ -30,3 +30,7 @@ footer {
 .fhsites {
     grid-template-columns: 1fr 1fr 1fr;
 }
+logo_link {
+    height: 500px;
+    width: 300px;
+}
