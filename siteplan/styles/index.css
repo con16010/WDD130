@@ -27,3 +27,23 @@ header {
 footer {
     grid-template-columns: auto;
 }
+:root {
+    --primary-color: #284BA4   ;
+    --secondary-color: #2E8A4D ;
+    --accent1-color: #BA1B1D;
+    --accent2-color: #F3E3CE;
+  
+    --heading-font: "montserrat";
+    --paragraph-font: "dosis";
+  
+    
+    --headline-color-on-white: #284BA4;
+    --headline-color-on-color: white;
+    --paragraph-color-on-white: #284BA4;
+    --paragraph-color-on-color: white;
+    --paragraph-background-color: #284BA4;
+    --nav-link-color: #F3E3CE;
+    --nav-background-color: #2E8A4D;
+    --nav-hover-link-color: #F3E3CE;
+    --nav-hover-background-color: #BA1B1D;
+}
