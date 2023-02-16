@@ -22,10 +22,10 @@ nav a:hover {
     background-color: #BA1B1D;
 }
 header {
-    grid-template-columns: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 footer {
-    grid-template-columns: auto;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 :root {
     --primary-color: #284BA4   ;
