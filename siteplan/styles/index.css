@@ -79,7 +79,10 @@ body {
     padding: 4em;
     font-size: 18px;
     text-align: center;
-  }
+}
+main {
+    display: grid;
+}
 .home {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
