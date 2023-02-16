@@ -24,3 +24,6 @@ nav a:hover {
 header {
     grid-template-columns: auto;
 }
+footer {
+    grid-template-columns: auto;
+}
